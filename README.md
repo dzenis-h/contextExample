@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is the updated README.md file that I have created for you based on your request:
 
-## Available Scripts
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50" height="50" style="padding: 5px;">
+  <h1 align="center">contextExample</h1>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/dzenis-h/contextExample">
+  <img src="https://img.shields.io/github/contributors/dzenis-h/contextExample">
+  <img src="https://img.shields.io/github/stars/dzenis-h/contextExample?style=social">
+  <img src="https://img.shields.io/github/forks/dzenis-h/contextExample?style=social">
+  <a href="https://www.linkedin.com/in/dzenis-h/"><img src="https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin"></a>
+  <a href="https://github.com/dzenis-h"><img src="https://img.shields.io/badge/-Follow-black?style=social&logo=github"></a>
+</p>
 
-### `npm start`
+<p align="center">
+  <img src="https://stackoverflow.com/users/flair/8146571.png?theme=dark&showIcon=true&showName=true&showBadges=true&showRep=true&showPosts=true&stackApps=true"/>
+</p>
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Overview 👀
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This project is a simple example of using React Context API to manage global state. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses modern JavaScript features such as ES7 syntax and React Hooks.
 
-### `npm test`
+![Screenshot](https://drive.google.com/uc?export=view&id=1yHkaSFgCSaD463RhLXbUMMEggFgu2ZiV)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech stack 🛠️
 
-### `npm run build`
+| Tech | Docs | Description |
+| ---- | ---- | ----------- |
+| ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) | [React](https://reactjs.org/docs/getting-started.html) | A JavaScript library for building user interfaces |
+| ![Create React App](https://img.shields.io/badge/-Create%20React%20App-black?style=flat-square&logo=react) | [Create React App](https://create-react-app.dev/docs/getting-started/) | A tool to set up a modern React project with no configuration |
+| ![Context API](https://img.shields.io/badge/-Context%20API-black?style=flat-square&logo=react) | [Context API](https://reactjs.org/docs/context.html) | A way to share data between components without prop drilling |
+| ![React Hooks](https://img.shields.io/badge/-React%20Hooks-black?style=flat-square&logo=react) | [React Hooks](https://reactjs.org/docs/hooks-intro.html) | A way to use state and other React features without writing a class component |
+| ![ES7](https://img.shields.io/badge/-ES7-F7DF1E?style=flat-square&logo=javascript) | [ES7](https://www.freecodecamp.org/news/es7-javascript-new-features-explained/) | The seventh edition of the ECMAScript standard that introduces new features such as async/await and exponentiation operator |
+| ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript) | [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | A scripting language that enables dynamic and interactive web pages |
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contributing 🙌
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Contributions are always welcome! If you would like to contribute to this project, please follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Fork the repository. 🍴
+2. Create a new branch. 🌵
+3. Make your changes and test them thoroughly. 👨‍💻
+4. Submit a pull request. ✔
 
-### `npm run eject`
+## License 📑
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This project is licensed under the MIT License - see the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for details.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Credits 👨🏻‍💻
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This repo was created by [Dzenis H.](https://dzenis.tech)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Contributions are more than welcome. 🫡
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+If you like what you see, please consider giving a ⭐️
